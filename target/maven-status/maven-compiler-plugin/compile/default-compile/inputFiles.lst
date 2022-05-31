@@ -1,0 +1,17 @@
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/ExternalUrls.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/Owner.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/Error.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/apps/spotify/PlaylistAPI.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/apps/spotify/SpecBuilder.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/RestResource.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/tests/BaseTest.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/utils/PropertyUtils.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/Playlist.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/Route.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/InnerError.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/Tracks.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/utils/DataLoader.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/Followers.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/utils/ConfigLoader.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/managers/TokenManager.java
+/Users/rodrigo.fontan/Spotify/src/main/java/api/pojos/ExternalUrls__1.java
